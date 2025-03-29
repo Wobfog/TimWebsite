@@ -325,14 +325,21 @@ span{
 /*RESPONSIBLE FOR EDUCATION PAGE*/
 .education{
     margin-top: 10rem;
+    font-size: 4rem;
+    color: #F4B860;
 }
 
-.herts-logo img{
-    width: 45vw;
+.tim-pic img{
+    margin-top: 2rem;
+    margin-right: 2%;
+    width: 40vh;
+    float: left;
 }
 
-.herts-logo h1{
-    float: right;
+.education-content{
+    font-size: 3rem;
+    color: #ECE5F0;
+    display: inline;
 }
 
 /*RESPONSIBLE FOR CONTACTS PAGE*/
